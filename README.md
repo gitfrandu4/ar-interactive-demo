@@ -6,6 +6,8 @@ Este proyecto es un ejemplo didáctico de cómo implementar una experiencia de R
 - 👆 **Interactuar** con la escena tocando la pantalla para ubicar nuevos elementos.
 - 🎨 Añadir un elemento **artístico animado** para realzar la experiencia visual.
 
+<img src="./demo.gif" width="120">
+
 ## 📋 Requisitos Previos
 
 - Conocimientos básicos de **HTML**, **CSS** y **JavaScript**.
